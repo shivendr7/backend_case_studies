@@ -1,7 +1,7 @@
 
 There are many platforms where you can read backend case studies. Here are a few of the most popular:
 
-## 1. Ideamotive: 
+### 1. Ideamotive: 
 Ideamotive is a software development company that has a large collection of backend case studies. The case studies cover a wide range of topics, including:
 
 E-commerce
@@ -10,7 +10,7 @@ Healthcare
 Media and entertainment
 Travel and hospitality
 
-## 2. DevCase: 
+### 2. DevCase: 
 DevCase is a website that publishes case studies from a variety of technology companies. The case studies cover a wide range of topics, including:
 
 Backend development
@@ -19,7 +19,7 @@ Mobile development
 DevOps
 Cloud computing
 
-## 3. Case Studies in Software Engineering: 
+### 3. Case Studies in Software Engineering: 
 Case Studies in Software Engineering is a book that collects case studies from a variety of software companies. The case studies cover a wide range of topics, including:
 
 Requirements engineering
@@ -28,13 +28,13 @@ Implementation
 Testing
 Deployment
 
-## Medium: 
+### Medium: 
 Medium is a blogging platform where software engineers and developers from all over the world share their knowledge and experiences. You can find many backend case studies on Medium, written by engineers who have worked on a variety of projects.
 
-## GitHub: 
+### GitHub: 
 GitHub is a code hosting platform where developers can share their code with the world. You can find many backend case studies on GitHub, written by developers who have open-sourced their code.
 
-## Stack Overflow: 
+### Stack Overflow: 
 Stack Overflow is a question-and-answer website for software developers. You can find many backend case studies on Stack Overflow, written by developers who have answered questions about backend development.
 
 These are just a few of the many platforms where you can read backend case studies. By reading these case studies, you can learn about the challenges and successes of other developers. This knowledge can help you to improve your own backend development skills.
